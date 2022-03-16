@@ -1,3 +1,3 @@
 - 👻 Hi, I'm a software engineering student of Bejing University of Posts and Telecommunications(BUPT).
 - 🤟 Keep improving!
-- 👉 Curent goal: OS, Database, Qt, Python, Java
+- 👉 Current goal: OS, Database, Qt, Python, Java
